@@ -1,4 +1,6 @@
-## Resources
+---
+title: Resources
+---
 
 Links that might be useful as you develop your site
 
